@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1722135985351,313,GET User List,200,OK,Thread Group 1-3,text,true,,1929,127,4,4,https://reqres.in/api/users?page=2,304,0,211
+1722135985025,638,GET User List,200,OK,Thread Group 1-1,text,true,,1929,127,4,4,https://reqres.in/api/users?page=2,629,0,541
+1722135985151,513,GET User List,200,OK,Thread Group 1-2,text,true,,1929,127,4,4,https://reqres.in/api/users?page=2,504,0,415
+1722135985569,181,GET User List,200,OK,Thread Group 1-4,text,true,,1932,127,5,5,https://reqres.in/api/users?page=2,181,0,120
+1722135985745,212,GET User List,200,OK,Thread Group 1-5,text,true,,1929,127,5,5,https://reqres.in/api/users?page=2,212,0,141
+1722135985675,410,Create User,201,Created,Thread Group 1-3,text,true,,897,232,5,5,https://reqres.in/api/users,410,0,0
+1722135985675,438,Create User,201,Created,Thread Group 1-1,text,true,,897,232,5,5,https://reqres.in/api/users,438,0,0
+1722135985675,478,Create User,201,Created,Thread Group 1-2,text,true,,897,232,5,5,https://reqres.in/api/users,478,0,0
+1722135985751,404,Create User,201,Created,Thread Group 1-4,text,true,,897,232,5,5,https://reqres.in/api/users,404,0,0
+1722135985959,408,Create User,201,Created,Thread Group 1-5,text,true,,897,232,5,5,https://reqres.in/api/users,408,0,0
+1722135986087,409, Update User,200,OK,Thread Group 1-3,text,true,,881,240,5,5,https://reqres.in/api/users/2,409,0,0
+1722135986115,411, Update User,200,OK,Thread Group 1-1,text,true,,881,240,5,5,https://reqres.in/api/users/2,411,0,0
+1722135986155,433, Update User,200,OK,Thread Group 1-2,text,true,,881,240,5,5,https://reqres.in/api/users/2,433,0,0
+1722135986156,451, Update User,200,OK,Thread Group 1-4,text,true,,881,240,5,5,https://reqres.in/api/users/2,451,0,0
+1722135986369,441, Update User,200,OK,Thread Group 1-5,text,true,,881,240,5,5,https://reqres.in/api/users/2,441,0,0
+1722135986497,454,Delete User,204,No Content,Thread Group 1-3,,true,,800,208,5,5,https://reqres.in/api/users/2,0,0,0
+1722135986527,433,Delete User,204,No Content,Thread Group 1-1,,true,,800,208,4,4,https://reqres.in/api/users/2,0,0,0
+1722135986590,453,Delete User,204,No Content,Thread Group 1-2,,true,,800,208,3,3,https://reqres.in/api/users/2,0,0,0
+1722135986608,446,Delete User,204,No Content,Thread Group 1-4,,true,,800,208,2,2,https://reqres.in/api/users/2,0,0,0
+1722135986812,425,Delete User,204,No Content,Thread Group 1-5,,true,,800,208,1,1,https://reqres.in/api/users/2,0,0,0
